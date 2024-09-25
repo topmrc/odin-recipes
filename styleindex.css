@@ -1,0 +1,26 @@
+
+#htmlindex {
+    margin: 16px auto;
+}
+
+#index {
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#indextitle {
+    background-color: aqua;
+    border: 2px solid rgba(150, 144, 144, 0.445);
+}
+
+#ulindex {
+    list-style-type: none;
+}
+
+.liindex {
+    background-color: rgba(150, 144, 144, 0.445);
+    border: 2px solid aqua;
+    padding: 2px;
+    margin: 2px;
+}
